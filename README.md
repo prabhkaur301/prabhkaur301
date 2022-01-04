@@ -8,9 +8,9 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 ## Hi there I'm Prabhjot Kaur <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-> **Well done is better than Well said**💪
 
-# I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
+
+## I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
@@ -18,6 +18,7 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 <a href="https://www.linkedin.com/in/prabhkaur301/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -43,6 +44,7 @@
 
 
  ## Languages and Tools:
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
