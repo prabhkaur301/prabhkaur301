@@ -1,12 +1,11 @@
 
 
-<!--
-**prabhkaur301/prabhkaur301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
+
+<a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a>
 ## Hi there I'm Prabhjot Kaur <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
@@ -25,7 +24,7 @@
 <a href="https://twitter.com/prabhkaurtwt" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://hashnode.com/prabhkaur/">
+  <a href="https://hashnode.com/prabhkaur/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/prabh_graphy/">
@@ -55,7 +54,6 @@
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
