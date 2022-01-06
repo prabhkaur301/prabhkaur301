@@ -76,11 +76,11 @@
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
 
-<table><td valign="top" width="100%">
+<table><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabhkaur301&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" align="left" style="width: 100%" />
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhkaur301&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
 
