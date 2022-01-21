@@ -1,13 +1,7 @@
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
-
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a>
 ## Hi there I'm Prabhjot Kaur 
-
 
 ## I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
 
@@ -18,9 +12,7 @@
 - 🌱 Feel free to contact me for project collaboration
 - 😁 Fun Fact:- The first programmer was the daughter of a mad poet
 
-
-
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/prabhkaur301/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,36 +36,30 @@
   <br>
   <br>
   
+## Languages and Tools
 
-
- ## Languages and Tools:
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <br>
 <br>
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-
-
-
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
 
-## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
 
 <table><td valign="top" width="50%">
@@ -88,21 +74,11 @@
 
 <br/>  
 
-
 <br>
 <p>
 <a><img alt="Prabhjot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhkaur301&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
 
-
-
-
 <a><img src="https://img.shields.io/github/followers/prabhkaur301?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=prabhkaur301&color=orange&style=flat-square)
-
-  ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
-
- 
-
-
+### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
