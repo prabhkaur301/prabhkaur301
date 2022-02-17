@@ -8,7 +8,7 @@
 - 🌱 Front-End Developer
 - 🌱 Currently Learning DSA in Java & Advanced JavaScript
 - 🌱 Experienced in Graphic designing & Video Editing
-- 🌱 Wanna my hands on Machine Learning
+- 🌱 Wanna try my hands on Machine Learning
 - 🌱 Feel free to contact me for project collaboration
 - 😁 Fun Fact:- The first programmer was the daughter of a mad poet
 
