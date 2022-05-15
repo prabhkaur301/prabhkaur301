@@ -12,6 +12,9 @@
 - 🌱 Feel free to contact me for project collaboration
 - 😁 Fun Fact:- The first programmer was the daughter of a mad poet
 
+## Latest Blog Post:-
+[Easy way to create patterns using programming](https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming)
+
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/prabhkaur301/" target="blank" >
