@@ -3,7 +3,8 @@
 <!-- <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a> -->
 ## Hi there I'm Prabhjot Kaur 
 
-## I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
+## I'm a Tech Enthusiast!! </b>&nbsp;
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> --> -->
 
 - 🌱 Front-End Developer
 - 🌱 Currently Learning DSA in Java & Advanced JavaScript
@@ -84,6 +85,6 @@
 
 <a><img src="https://img.shields.io/github/followers/prabhkaur301?label=Followers&style=social" alt="GitHub Followers Badge"></a>  
 <br/>
-<img src="https://komarev.com/ghpvc/?username=prabhkaur301&label=Visitors+Count&color=1DA1F2"  alt="astrogeek77" height="25" width="150" />
+<img src="https://komarev.com/ghpvc/?username=prabhkaur301&label=Visitors+Count&color=1DA1F2"  alt="prabhkaur301" height="25" width="150" />
 
-### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
+<!-- ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1> -->
