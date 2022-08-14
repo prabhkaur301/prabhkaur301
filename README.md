@@ -1,17 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
 
 <!-- <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a> -->
-## Hi there I'm Prabhjot Kaur 
+## Hi there👋 I'm Prabhjot Kaur 
 
-## I'm a Tech Enthusiast!! </b>&nbsp;
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> --> -->
+## Passionate Software Developer from India!! 
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> --> 
 
-- 🌱 Front-End Developer
-- 🌱 Currently Learning DSA in Java & Advanced JavaScript
-- 🌱 Experienced in Graphic designing & Video Editing
-- 🌱 Wanna try my hands on Machine Learning
-- 🌱 Feel free to contact me for project collaboration
-- 😁 Fun Fact:- The first programmer was the daughter of a mad poet
+<!-- - 🔭 I’m currently working on [e-Transcript Management System using Blockchain](https://github.com/Amanjot726/E-Transcript_Management_System_using_Blockchain) -->
+
+- 🌱 I’m currently learning **Data Structure & Algorithms in Java**
+
+- 🔭 I’m currently working on Competitive programming using LeetCode.
+
+- 👯 I’m looking to collaborate on Full Stack Development projects.
+
+- 💬 Ask me about UI design & Frontend Development.
+
+- 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/prabhjotkaur28/)
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer ;)
+
 
 ## Latest Blog Post:-
 [Easy way to create patterns using programming](https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming)
