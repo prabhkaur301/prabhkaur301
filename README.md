@@ -3,10 +3,7 @@
 <!-- <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a> -->
 ## Hi there👋 I'm Prabhjot Kaur 
 
-## Passionate Software Developer from India!! 
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> --> 
-
-<!-- - 🔭 I’m currently working on [e-Transcript Management System using Blockchain](https://github.com/Amanjot726/E-Transcript_Management_System_using_Blockchain) -->
+## Passionate Software Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> 
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in Java**
 
@@ -23,7 +20,11 @@
 
 
 ## Latest Blog Post:-
-[Easy way to create patterns using programming](https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming)
+
+<oi>
+  <li>
+    <a href="https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming"><strong>Easy way to create patterns using programming</strong></a>      </li>
+</oi>
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -58,13 +59,14 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<br>
-<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
+<br>
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
@@ -91,9 +93,17 @@
 <p>
 <a><img alt="Prabhjot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhkaur301&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
+<br/>
+<h2 align="center">Recent Repos 💻</h2>
+ <p align='center'>
+  <a href="https://github.com/prabhkaur301/Recipe-Hub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Recipe-Hub&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/prabhkaur301/News-App-with-Voice-Assistant"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=News-App-with-Voice-Assistant&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+
+</p>
+<br>
 
 <a><img src="https://img.shields.io/github/followers/prabhkaur301?label=Followers&style=social" alt="GitHub Followers Badge"></a>  
 <br/>
-<img src="https://komarev.com/ghpvc/?username=prabhkaur301&label=Visitors+Count&color=1DA1F2"  alt="prabhkaur301" height="25" width="150" />
+![Visitor Count](https://komarev.com/ghpvc/?username=prabhkaur301&color=orange&style=flat-square)
 
-<!-- ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1> -->
+### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
