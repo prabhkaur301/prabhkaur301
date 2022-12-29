@@ -72,27 +72,25 @@
 
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
 
 ## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
 
 <table><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabhkaur301&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" align="left" style="width: 100%" />
+ <a href="https://github.com/prabhkaur301/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhkaur301&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prabhjot's github stats" /></a>  
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhkaur301&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
+<a href="https://github.com/prabhkaur301/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 </td></table>  
 
 <br/>  
 
 <br>
-<p>
-<a><img alt="Prabhjot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhkaur301&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
-</p>
+
 <br/>
 <h2 align="center">Recent Repos 💻</h2>
  <p align='center'>
