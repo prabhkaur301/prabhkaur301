@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in Java**
 
-- 🔭 I’m currently working on Competitive programming on LeetCode.
+- 🔭 I’m currently working at Daphnis Labs as Frontend Developer.
 
 - 👯 I’m looking to collaborate on Full Stack Development projects.
 
@@ -16,7 +16,6 @@
 - 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/prabhjotkaur28/)
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer ;)
 
 
 ## Latest Blog Post:-
