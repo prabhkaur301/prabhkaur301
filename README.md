@@ -3,7 +3,6 @@
 <!-- <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a> -->
 ## Hi there👋 I'm Prabhjot Kaur 
 
-## Passionate Software Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"> 
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in Java**
 
