@@ -74,20 +74,27 @@
 ## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
 
-<table><td valign="top" width="50%">
+<table width="100%">
+<td valign="top" >
 
- <a href="https://github.com/prabhkaur301/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhkaur301&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prabhjot's github stats" /></a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=radical&hide=jupyter_notebook)](https://github.com/prabhkaur301/github-readme-stats) 
 
 
-</td><td valign="top" width="50%">
+</td>
 
-<a href="https://github.com/prabhkaur301/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=buefy&hide_border=true" /></a> 
+<td valign="top" >
 
-</td></table>  
+![Prabhjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhkaur301&count_private=true&show_icons=true&theme=radical)
+
+</td>
+</table>  
 
 <br/>  
 
 <br>
+
+[![Prabhjot's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prabhkaur301&theme=redical)](https://github.com/prabhkaur301/github-readme-activity-graph)
+
 
 <br/>
 <h2 align="center">Recent Repos 💻</h2>
