@@ -77,7 +77,7 @@
 <table width="100%">
 <td valign="top" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=radical&hide=jupyter_notebook)](https://github.com/prabhkaur301/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=radical&exclude_repo=ML-notebooks&hide=html&langs_count=6)](https://github.com/prabhkaur301/github-readme-stats) 
 
 
 </td>
