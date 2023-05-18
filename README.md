@@ -100,8 +100,8 @@
 <h2 align="center">Recent Repos 💻</h2>
  <p align='center'>
   <a href="https://github.com/prabhkaur301/Recipe-Hub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Recipe-Hub&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/prabhkaur301/News-App-with-Voice-Assistant"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=News-App-with-Voice-Assistant&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/prabhkaur301/prabhkaur301"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=prabhkaur301&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/prabhkaur301/Music-Player"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Music-Player&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/prabhkaur301/Meme-Generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Meme-Generator&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 
 </p>
 <br>
