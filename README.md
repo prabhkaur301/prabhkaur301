@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in Java**
 
-- 🔭 I’m currently working at Netomi as Frontend Developer.
+- 🔭 I’m currently working at Netomi.
 
 - 👯 I’m looking to collaborate on Full Stack Development projects.
 
