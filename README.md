@@ -58,9 +58,7 @@
 ![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=Vue.js&logoColor=white)
-
-<br>
-<br>
+<br/>
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -72,43 +70,19 @@
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
-## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
-  <br/>
 
-<table width="100%">
-<td valign="top" >
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkaur301&layout=compact&theme=radical&exclude_repo=ML-notebooks&hide=html&langs_count=6)](https://github.com/prabhkaur301/github-readme-stats) 
-
-
-</td>
-
-<td valign="top" >
-
-![Prabhjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhkaur301&count_private=true&show_icons=true&theme=radical)
-
-</td>
-</table>  
 
 <br/>  
 
 <br>
 
-[![Prabhjot's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prabhkaur301&theme=redical)](https://github.com/prabhkaur301/github-readme-activity-graph)
 
 
 <br/>
-<h2 align="center">Recent Repos 💻</h2>
- <p align='center'>
-  <a href="https://github.com/prabhkaur301/Recipe-Hub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Recipe-Hub&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="Recipe Hub"></a>
-<a href="https://github.com/prabhkaur301/Music-Player"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Music-Player&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="Music Player"></a>
-<a href="https://github.com/prabhkaur301/Meme-Generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhkaur301&repo=Meme-Generator&theme=react&bg_color=1F222E&title_color=D73A7B&icon_color=F8D866&hide_border=true&show_icons=false" alt="Meme Generator"></a>
 
-</p>
-<br>
 
 <a><img src="https://img.shields.io/github/followers/prabhkaur301?label=Followers&style=social" alt="GitHub Followers Badge"></a>  
 <br/>
 ![Visitor Count](https://komarev.com/ghpvc/?username=prabhkaur301&color=orange&style=flat-square)
 
-### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
+<!--- <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1> -->
