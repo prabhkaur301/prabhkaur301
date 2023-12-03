@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
 
-<!-- <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a> -->
 ## Hi there👋 I'm Prabhjot Kaur 
 
 
-- 🌱 I’m currently learning **Data Structure & Algorithms in Java**
+- 🌱 I’m currently deep diving in  **Full Stack World**
 
 - 🔭 I’m currently working at Netomi.
 
@@ -22,6 +21,8 @@
 <oi>
   <li>
     <a href="https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming"><strong>Easy way to create patterns using programming</strong></a>      </li>
+  <li>
+    <a href="https://prabhkaur.hashnode.dev/noob-vs-expert-react-developers-code"><strong>Noob v/s expert React developer's code</strong></a>      </li>
 </oi>
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
@@ -54,10 +55,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=Vue.js&logoColor=white)
+
 <br>
 <br>
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
