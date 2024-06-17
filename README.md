@@ -2,9 +2,6 @@
 
 ## Hi there👋 I'm Prabhjot Kaur 
 
-
-- 🌱 I’m currently deep diving in  **Full Stack World**
-
 - 🔭 I’m currently working at Netomi.
 
 - 👯 I’m looking to collaborate on Full Stack Development projects.
